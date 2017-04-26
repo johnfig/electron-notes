@@ -4,6 +4,7 @@
   "main": "main.js",
   "description": "Time to start learning how electron works using React/Redux with a Rails Backend. This is just the frontend electron application",
   "dependencies": {
+    "babel": "^6.23.0",
     "react": "^15.5.4",
     "react-redux": "^5.0.4",
     "redux": "^3.6.0"
