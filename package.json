@@ -1,5 +1,26 @@
 {
-  "name"    : "your-app",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "electron-notes",
+  "version": "0.1.0",
+  "main": "main.js",
+  "description": "Time to start learning how electron works using React/Redux with a Rails Backend. This is just the frontend electron application",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfig/electron-notes.git"
+  },
+  "keywords": [],
+  "author": "John Figueiredo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnfig/electron-notes/issues"
+  },
+  "homepage": "https://github.com/johnfig/electron-notes"
 }
